@@ -2,7 +2,8 @@
 Make sure you have node.js and git install on your machine
 
 ### Step 1: 
-To start the project first clone the project using this command `git clone https://github.com/HamzaConnection/Weather-widget.git`
+To start the project first clone the project using this command
+ `git clone https://github.com/HamzaConnection/Weather-widget.git`
 
 
 ### Step 2: 
